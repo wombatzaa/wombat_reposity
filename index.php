@@ -1,4 +1,7 @@
 <?php 
-	echo "Hello Wombat!";
-	echo "Step1";
+	echo "Hello Test!";
+	
+	echo "Step1 fixed";
+	echo "Step2";
+	print("xxxxx");
 ?>
