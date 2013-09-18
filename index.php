@@ -4,4 +4,5 @@
 	echo "Step1 fixed";
 	echo "Step2";
 	print("xxxxx");
+	echo "cxcxxc";
 ?>
