@@ -5,4 +5,6 @@
 	echo "cxcxxc";
 	echo "223212";
 	echo "add new";
+	
+	echo "Add echo 2";
 ?>
